@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vishnubhatt18/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+## Math
+|  |
+| ------- |
+| [2525-categorize-box-according-to-criteria](https://github.com/vishnubhatt18/LEETCODE/tree/master/2525-categorize-box-according-to-criteria) |
 <!---LeetCode Topics End-->
