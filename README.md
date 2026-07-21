@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vishnubhatt18/LEETCODE/tree/master/0242-valid-anagram) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vishnubhatt18/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vishnubhatt18/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -25,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vishnubhatt18/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2525-categorize-box-according-to-criteria](https://github.com/vishnubhatt18/LEETCODE/tree/master/2525-categorize-box-according-to-criteria) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vishnubhatt18/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
