@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishnubhatt18/LEETCODE/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/vishnubhatt18/LEETCODE/tree/master/0242-valid-anagram) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vishnubhatt18/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishnubhatt18/LEETCODE/tree/master/0001-two-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vishnubhatt18/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Math
 |  |
